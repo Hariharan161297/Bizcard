@@ -55,3 +55,6 @@
 
 ![image](https://github.com/Hariharan161297/Bizcard/assets/146412784/0faddefa-d077-4c5a-8bfc-6529a51ec2a1)
 
+![image](https://github.com/Hariharan161297/Bizcard/assets/146412784/829758eb-d8da-42bc-8b0a-1d8c1f4b42da)
+
+
