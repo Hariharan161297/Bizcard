@@ -44,8 +44,8 @@
 
 - The extracted text is sent to get_data() function(user defined- I have coded this function) for respective text classification as company name, card holder name, designation, mobile number, email address, website URL, area, city, state, and pin code using loops and some regular expression.
 
-- The classified data is displayed on screen which can be further edited by user based on requirement.
+-  Once the data gets extracted,it automatically gets stored in the MySQL Database. (Note: Provide respective host, user, password, database name in create_database, sql_table_creation and connect_database for establishing connection.)
 
-- Once the data gets extracted,it automatically gets stored in the MySQL Database. (Note: Provide respective host, user, password, database name in create_database, sql_table_creation and connect_database for establishing connection.)
+- The classified data is displayed on screen which can be further edited by user based on requirement.
 
 - Further with the help of **MODIFY** menu the uploaded data’s in SQL Database can be accessed for **Read, Update and Delete** Operations.
