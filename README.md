@@ -49,3 +49,9 @@
 - The classified data is displayed on screen which can be further edited by user based on requirement.
 
 - Further with the help of **MODIFY** menu the uploaded data’s in SQL Database can be accessed for **Read, Update and Delete** Operations.
+
+
+## This is how the dashboard looks like 
+
+![image](https://github.com/Hariharan161297/Bizcard/assets/146412784/0faddefa-d077-4c5a-8bfc-6529a51ec2a1)
+
