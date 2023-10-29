@@ -160,13 +160,11 @@ def create_df(data):
 
 # HOME MENU
 if selected == "Home":
-        image = Image.open(r"C:\Users\Hariharan\Downloads\bizcard.png") 
-        #image = Image.open("1.png")
-        st.image(image, use_column_width=True)
-
         st.markdown("## :green[**Technologies Used :**] Python,easy OCR, Streamlit, SQL, Pandas")
         st.markdown("## :green[**Overview :**] In this streamlit web app you can upload an image of a business card and extract relevant information from it using easyOCR. You can view, modify or delete the extracted data in this app. This app would also allow users to save the extracted information into a database along with the uploaded business card image. The database would be able to store multiple entries, each with its own business card image and extracted information.")
 
+        image = Image.open(r"C:\Users\Hariharan\Downloads\bizcard.png") 
+        st.image(image, use_column_width=True)
 
 
 # UPLOAD AND EXTRACT MENU
